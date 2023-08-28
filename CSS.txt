@@ -1,0 +1,55 @@
+/* Estilos Gerais */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos do Cabeçalho */
+header {
+    background: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos das Seções */
+section {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+/* Estilos dos Títulos das Seções */
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Estilos do Formulário de Contato */
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+label, input {
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+/* Estilos do Rodapé */
+footer {
+    text-align: center;
+    background: #f4f4f4;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+}
